@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: dubbo-consumer
+server:
+  port: 8082
+zookeeper:
+  address: 172.168.1.75:2181
+dubbo:
+  port: 20190
